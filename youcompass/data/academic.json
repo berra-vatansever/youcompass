@@ -1,0 +1,499 @@
+{
+  "edition": "2026\u20132027",
+  "checked": "2026-11-11",
+  "programs": [
+    {
+      "id": "cs",
+      "name": "Computer Science",
+      "slug": "computer-science",
+      "area": "STEM",
+      "unit": "coms",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/"
+    },
+    {
+      "id": "econ",
+      "name": "Economics",
+      "slug": "economics",
+      "area": "Social sciences",
+      "unit": "econ",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/economics/"
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "slug": "mathematics",
+      "area": "STEM",
+      "unit": "math",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/mathematics/"
+    },
+    {
+      "id": "psych",
+      "name": "Psychology",
+      "slug": "psychology",
+      "area": "Social sciences",
+      "unit": "psyc",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/psychology/"
+    },
+    {
+      "id": "cog",
+      "name": "Cognitive Science",
+      "slug": "cognitive-science",
+      "area": "Interdisciplinary",
+      "unit": "cogs",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/cognitive-science/"
+    },
+    {
+      "id": "poli",
+      "name": "Political Science",
+      "slug": "political-science",
+      "area": "Social sciences",
+      "unit": "poli",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/political-science/"
+    },
+    {
+      "id": "english",
+      "name": "English & Comparative Literature",
+      "slug": "english-comparative-literature",
+      "area": "Humanities",
+      "unit": "english",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/english-comparative-literature/"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "slug": "history",
+      "area": "Humanities",
+      "unit": "history",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/history/"
+    },
+    {
+      "id": "bio",
+      "name": "Biological Sciences",
+      "slug": "biological-sciences",
+      "area": "STEM",
+      "unit": "biology",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/biological-sciences/"
+    },
+    {
+      "id": "stats",
+      "name": "Statistics",
+      "slug": "statistics",
+      "area": "STEM",
+      "unit": "stats",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/statistics/"
+    },
+    {
+      "id": "art",
+      "name": "Art History",
+      "slug": "art-history-archaeology",
+      "area": "Humanities",
+      "unit": "art",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/art-history-archaeology/"
+    },
+    {
+      "id": "philosophy",
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "area": "Humanities",
+      "unit": "philosophy",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/philosophy/"
+    }
+  ],
+  "schools": {
+    "cc": {
+      "name": "Columbia College",
+      "profile": "Columbia College",
+      "degreePoints": 124,
+      "requirements": [
+        {
+          "id": "cc-lit",
+          "title": "Literature Humanities",
+          "target": 2,
+          "unit": "courses",
+          "group": "Core",
+          "note": "Two-semester sequence; normally first year.",
+          "url": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/"
+        },
+        {
+          "id": "cc-civ",
+          "title": "Contemporary Civilization",
+          "target": 2,
+          "unit": "courses",
+          "group": "Core",
+          "note": "Two-semester sequence after Literature Humanities.",
+          "url": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/"
+        },
+        {
+          "id": "cc-uw",
+          "title": "University Writing",
+          "target": 1,
+          "unit": "courses",
+          "group": "Core",
+          "note": "",
+          "url": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/"
+        },
+        {
+          "id": "cc-fos",
+          "title": "Frontiers of Science",
+          "target": 1,
+          "unit": "courses",
+          "group": "Core",
+          "note": "",
+          "url": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/"
+        },
+        {
+          "id": "cc-art",
+          "title": "Art Humanities",
+          "target": 1,
+          "unit": "courses",
+          "group": "Core",
+          "note": "",
+          "url": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/"
+        },
+        {
+          "id": "cc-music",
+          "title": "Music Humanities",
+          "target": 1,
+          "unit": "courses",
+          "group": "Core",
+          "note": "",
+          "url": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/"
+        },
+        {
+          "id": "cc-global",
+          "title": "Global Core",
+          "target": 2,
+          "unit": "courses",
+          "group": "Core",
+          "note": "Only approved courses; petitions are not automatic approvals.",
+          "url": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/"
+        },
+        {
+          "id": "cc-science",
+          "title": "Additional science",
+          "target": 2,
+          "unit": "courses",
+          "group": "STEM / distribution",
+          "note": "In addition to Frontiers; use the approved science list.",
+          "url": "https://bulletin.columbia.edu/columbia-college/core-curriculum/science-requirement/"
+        },
+        {
+          "id": "cc-language",
+          "title": "Foreign language",
+          "target": 1,
+          "unit": "milestone",
+          "group": "Core",
+          "note": "Intermediate II or an approved exemption; record approval, not an assumed four-course sequence.",
+          "url": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/"
+        },
+        {
+          "id": "cc-pe",
+          "title": "Physical education",
+          "target": 2,
+          "unit": "courses",
+          "group": "Well-being",
+          "note": "",
+          "url": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/"
+        },
+        {
+          "id": "cc-swim",
+          "title": "Swimming test",
+          "target": 1,
+          "unit": "milestone",
+          "group": "Well-being",
+          "note": "",
+          "url": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/"
+        },
+        {
+          "id": "cc-major",
+          "title": "Primary major requirements",
+          "target": 1,
+          "unit": "milestone",
+          "group": "Major",
+          "note": "Add the detailed major requirements from your department bulletin below.",
+          "url": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/"
+        }
+      ],
+      "degreeURL": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/",
+      "coreURL": "https://bulletin.columbia.edu/columbia-college/core-curriculum/",
+      "policy": "Most students take one major. The current bulletin allows up to three programs, with at most two majors and two minors. Programs governed by the same offering unit cannot be combined. Shared-course rules are conditional."
+    },
+    "seas": {
+      "name": "Columbia Engineering",
+      "profile": "Engineering",
+      "degreePoints": 128,
+      "requirements": [
+        {
+          "id": "se-math",
+          "title": "Calculus sequence / placement",
+          "target": 1,
+          "unit": "milestone",
+          "group": "Technical",
+          "note": "Sequence depends on placement and major.",
+          "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/first-year-sophomore-program/"
+        },
+        {
+          "id": "se-physics",
+          "title": "Physics",
+          "target": 2,
+          "unit": "courses",
+          "group": "Technical",
+          "note": "At least two semesters; major may require more.",
+          "url": "https://www.engineering.columbia.edu/academics/academic-resources/undergraduate-advising"
+        },
+        {
+          "id": "se-chem",
+          "title": "Chemistry",
+          "target": 1,
+          "unit": "milestone",
+          "group": "Technical",
+          "note": "At least one semester; confirm the major-specific sequence.",
+          "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/first-year-sophomore-program/"
+        },
+        {
+          "id": "se-arteng",
+          "title": "The Art of Engineering",
+          "target": 1,
+          "unit": "courses",
+          "group": "Technical",
+          "note": "ENGI E1102.",
+          "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/first-year-sophomore-program/"
+        },
+        {
+          "id": "se-cs",
+          "title": "Computer science foundation",
+          "target": 1,
+          "unit": "milestone",
+          "group": "Technical",
+          "note": "Course and placement depend on programming background and major.",
+          "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/first-year-sophomore-program/"
+        },
+        {
+          "id": "se-lab",
+          "title": "Required science / engineering labs",
+          "target": 1,
+          "unit": "milestone",
+          "group": "Technical",
+          "note": "Physics / chemistry labs depend on major. Review the departmental chart.",
+          "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/first-year-sophomore-program/"
+        },
+        {
+          "id": "se-uw",
+          "title": "University Writing",
+          "target": 1,
+          "unit": "courses",
+          "group": "Nontechnical",
+          "note": "",
+          "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/first-year-sophomore-program/"
+        },
+        {
+          "id": "se-humanities",
+          "title": "Humanities sequence",
+          "target": 2,
+          "unit": "courses",
+          "group": "Nontechnical",
+          "note": "Choose the allowed Lit Hum, CC, or approved Global Core route.",
+          "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/first-year-sophomore-program/"
+        },
+        {
+          "id": "se-artmusic",
+          "title": "Art Humanities OR Music Humanities",
+          "target": 1,
+          "unit": "courses",
+          "group": "Nontechnical",
+          "note": "",
+          "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/first-year-sophomore-program/"
+        },
+        {
+          "id": "se-econ",
+          "title": "Principles of Economics",
+          "target": 1,
+          "unit": "courses",
+          "group": "Nontechnical",
+          "note": "ECON UN1105 or approved AP credit.",
+          "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/first-year-sophomore-program/"
+        },
+        {
+          "id": "se-nontech",
+          "title": "Total nontechnical points",
+          "target": 27,
+          "unit": "points",
+          "group": "Nontechnical",
+          "note": "Includes required and approved elective nontechnical work. Requirements overlap; credits are counted once overall.",
+          "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/first-year-sophomore-program/"
+        },
+        {
+          "id": "se-pe",
+          "title": "Physical education",
+          "target": 2,
+          "unit": "courses",
+          "group": "Well-being",
+          "note": "",
+          "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/first-year-sophomore-program/"
+        },
+        {
+          "id": "se-major",
+          "title": "Engineering major + technical electives",
+          "target": 1,
+          "unit": "milestone",
+          "group": "Major",
+          "note": "Track your department\u2019s full BS chart, including labs, electives and capstone.",
+          "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/"
+        }
+      ],
+      "degreeURL": "https://www.engineering.columbia.edu/academics/academic-resources/undergraduate-advising",
+      "coreURL": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/first-year-sophomore-program/",
+      "policy": "Compare a BS major with technical or liberal-arts minors. Verify any second-major or joint-degree proposal with Engineering advisers; this planner does not declare it permitted."
+    },
+    "gs": {
+      "name": "General Studies",
+      "profile": "General Studies",
+      "degreePoints": 124,
+      "requirements": [
+        {
+          "id": "gs-uw",
+          "title": "University Writing",
+          "target": 1,
+          "unit": "courses",
+          "group": "Core",
+          "note": "",
+          "url": "https://bulletin.columbia.edu/general-studies/the-core/"
+        },
+        {
+          "id": "gs-lit",
+          "title": "Literature / humanities",
+          "target": 2,
+          "unit": "courses",
+          "group": "Core",
+          "note": "Include the literature requirement; adviser checks course selection and transfer work.",
+          "url": "https://bulletin.columbia.edu/general-studies/the-core/literature-humanities/"
+        },
+        {
+          "id": "gs-social",
+          "title": "Social sciences",
+          "target": 2,
+          "unit": "courses",
+          "group": "Core",
+          "note": "Approved social-science work or the CC sequence; check the applicable Core route.",
+          "url": "https://bulletin.columbia.edu/general-studies/the-core/"
+        },
+        {
+          "id": "gs-art",
+          "title": "Art",
+          "target": 1,
+          "unit": "courses",
+          "group": "Core",
+          "note": "",
+          "url": "https://bulletin.columbia.edu/general-studies/the-core/"
+        },
+        {
+          "id": "gs-music",
+          "title": "Music",
+          "target": 1,
+          "unit": "courses",
+          "group": "Core",
+          "note": "",
+          "url": "https://bulletin.columbia.edu/general-studies/the-core/"
+        },
+        {
+          "id": "gs-global",
+          "title": "Global Core",
+          "target": 2,
+          "unit": "courses",
+          "group": "Core",
+          "note": "",
+          "url": "https://bulletin.columbia.edu/general-studies/the-core/global-core/"
+        },
+        {
+          "id": "gs-qr",
+          "title": "Quantitative reasoning",
+          "target": 1,
+          "unit": "milestone",
+          "group": "STEM / distribution",
+          "note": "Approved course or approved exception; review the QR page.",
+          "url": "https://bulletin.columbia.edu/general-studies/the-core/quantitative-reasoning/"
+        },
+        {
+          "id": "gs-science",
+          "title": "Science",
+          "target": 3,
+          "unit": "courses",
+          "group": "STEM / distribution",
+          "note": "Approved disciplines and departmental limits apply.",
+          "url": "https://bulletin.columbia.edu/general-studies/the-core/science/"
+        },
+        {
+          "id": "gs-language",
+          "title": "Foreign language",
+          "target": 1,
+          "unit": "milestone",
+          "group": "Core",
+          "note": "Required level or approved exemption; placement / transfer review matters.",
+          "url": "https://bulletin.columbia.edu/general-studies/the-core/"
+        },
+        {
+          "id": "gs-major",
+          "title": "Primary major requirements",
+          "target": 1,
+          "unit": "milestone",
+          "group": "Major",
+          "note": "Add detailed department requirements; transfer and overlap rules need adviser review.",
+          "url": "https://bulletin.columbia.edu/general-studies/degree-fulfillment/"
+        }
+      ],
+      "degreeURL": "https://bulletin.columbia.edu/general-studies/degree-fulfillment/",
+      "coreURL": "https://bulletin.columbia.edu/general-studies/the-core/",
+      "policy": "A major is required. GS allows up to three programs, with no more than two majors. Adviser approval, transfer review and specific Core overlap limits apply."
+    }
+  },
+  "abroad": [
+    {
+      "id": "paris-core",
+      "name": "Summer Core in Paris",
+      "city": "Paris, France",
+      "term": "Summer",
+      "discipline": "Humanities",
+      "language": "English",
+      "url": "https://global.undergrad.columbia.edu/program/art-music-paris",
+      "summary": "Pair Art Humanities and Music Humanities with a Paris summer experience.",
+      "notes": "The source describes both courses together. Check the current cycle and whether prior Art / Music Humanities makes you ineligible. Credits are not added automatically."
+    },
+    {
+      "id": "paris-english",
+      "name": "Columbia in Paris \u00b7 English Program",
+      "city": "Paris, France",
+      "term": "Fall",
+      "discipline": "Social sciences / humanities",
+      "language": "English; language study included",
+      "url": "https://global.undergrad.columbia.edu/program/columbia-paris-english-program-fall-only",
+      "summary": "A fall semester combining Reid Hall and Sciences Po coursework.",
+      "notes": "Review language track, home-school clearance, current availability and credit approvals."
+    },
+    {
+      "id": "kyoto",
+      "name": "Kyoto Consortium for Japanese Studies",
+      "city": "Kyoto, Japan",
+      "term": "Fall / Spring / Year",
+      "discipline": "Language / humanities / social sciences",
+      "language": "Japanese / English",
+      "url": "https://global.undergrad.columbia.edu/program/kcjs-semester",
+      "summary": "Build Japanese language skills and study in a local academic and community setting.",
+      "notes": "Check Japanese preparation, program eligibility, the current cycle and course-credit review."
+    },
+    {
+      "id": "paris-french",
+      "name": "Columbia in Paris \u00b7 French Immersion",
+      "city": "Paris, France",
+      "term": "Fall / Spring / Year",
+      "discipline": "Humanities / social sciences",
+      "language": "French",
+      "url": "https://global.undergrad.columbia.edu/program/columbia-paris-semester",
+      "summary": "A language-immersive route to a semester or academic year in Paris.",
+      "notes": "Confirm your French placement and program prerequisites before planning around admission."
+    }
+  ],
+  "abroadEligibility": "https://global.undergrad.columbia.edu/studyabroad/steps/eligibility",
+  "abroadSearch": "https://global.undergrad.columbia.edu/studyabroad/search",
+  "classesURL": "https://doc.sis.columbia.edu/",
+  "rulesNote": "Planning summaries are not a degree audit. Use your applicable matriculation / declaration-year bulletin and confirm substitutions, placement, transfer and overlap decisions with your adviser."
+}
